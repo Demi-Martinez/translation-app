@@ -2,7 +2,9 @@
 
 This project started as a hack to translate our wordpress pages in a easy way, you can see in Spreadsheet a way to translate a WP dump using GSheet. 
 
-We then built a translator that was using a Transltor API to produce simple translations.
+We then built a translator that was using Python to produce simple translations. I show an example here.
+
+Then we built a more ambitious, and intelligent code, that does the actual work to create a translating intelligent machine.
 
 Then we try build our own transaltor using Google Translate Cloud.
 
